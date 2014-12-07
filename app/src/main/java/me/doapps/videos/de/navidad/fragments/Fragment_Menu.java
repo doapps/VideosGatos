@@ -1,7 +1,6 @@
-package me.doapps.fragments;
+package me.doapps.videos.de.navidad.fragments;
 
 import android.support.v7.app.ActionBarActivity;
-import android.app.Activity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.ActionBarDrawerToggle;
@@ -12,20 +11,16 @@ import android.content.res.Configuration;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.Toast;
 
-import me.doapps.beans.Channel_DTO;
-import me.doapps.datasource.Channel_Datasource;
-import me.doapps.youapp.R;
-import me.doapps.youapp.YouApp;
+import me.doapps.videos.de.navidad.beans.Channel_DTO;
+import me.doapps.videos.de.navidad.datasource.Channel_Datasource;
+import me.doapps.videos.de.navidad.R;
+import me.doapps.videos.de.navidad.activities.YouApp;
 
 public class Fragment_Menu extends Fragment {
 

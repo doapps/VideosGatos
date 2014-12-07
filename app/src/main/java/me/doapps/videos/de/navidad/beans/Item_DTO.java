@@ -1,7 +1,6 @@
-package me.doapps.beans;
+package me.doapps.videos.de.navidad.beans;
 
 import org.json.JSONException;
-import org.json.JSONObject;
 
 /**
  * Created by Gantz on 3/12/14.

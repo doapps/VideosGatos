@@ -1,12 +1,11 @@
-package me.doapps.datasource;
+package me.doapps.videos.de.navidad.datasource;
 
 import android.content.Context;
 
 import java.util.ArrayList;
 
-import me.doapps.adapters.Adapter_Channel;
-import me.doapps.beans.Channel_DTO;
-import me.doapps.youapp.R;
+import me.doapps.videos.de.navidad.adapters.Adapter_Channel;
+import me.doapps.videos.de.navidad.beans.Channel_DTO;
 
 /**
  * Created by Gantz on 3/12/14.

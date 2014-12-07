@@ -1,4 +1,4 @@
-package me.doapps.beans;
+package me.doapps.videos.de.navidad.beans;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,4 +1,4 @@
-package me.doapps.youapp;
+package me.doapps.videos.de.navidad.activities;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;

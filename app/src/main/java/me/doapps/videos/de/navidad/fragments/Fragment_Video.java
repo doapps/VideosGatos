@@ -1,4 +1,4 @@
-package me.doapps.fragments;
+package me.doapps.videos.de.navidad.fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,19 +12,14 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
-
-import org.json.JSONException;
-
 import java.util.ArrayList;
 
-import me.doapps.adapters.Adapter_Video;
-import me.doapps.beans.Item_DTO;
-import me.doapps.datasource.Video_DataSource;
-import me.doapps.youapp.Player;
-import me.doapps.youapp.R;
-import me.doapps.youapp.YouApp;
+import me.doapps.videos.de.navidad.adapters.Adapter_Video;
+import me.doapps.videos.de.navidad.beans.Item_DTO;
+import me.doapps.videos.de.navidad.datasource.Video_DataSource;
+import me.doapps.videos.de.navidad.activities.Player;
+import me.doapps.videos.de.navidad.R;
+import me.doapps.videos.de.navidad.activities.YouApp;
 
 /**
  * Created by Gantz on 3/12/14.

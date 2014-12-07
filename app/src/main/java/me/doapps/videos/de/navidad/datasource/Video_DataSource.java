@@ -1,9 +1,8 @@
-package me.doapps.datasource;
+package me.doapps.videos.de.navidad.datasource;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.android.volley.Request;
@@ -13,16 +12,14 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
-import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import me.doapps.adapters.Adapter_Video;
-import me.doapps.beans.API_DTO;
-import me.doapps.beans.Item_DTO;
-import me.doapps.youapp.YouApp;
+import me.doapps.videos.de.navidad.adapters.Adapter_Video;
+import me.doapps.videos.de.navidad.beans.API_DTO;
+import me.doapps.videos.de.navidad.beans.Item_DTO;
 
 /**
  * Created by Gantz on 3/12/14.

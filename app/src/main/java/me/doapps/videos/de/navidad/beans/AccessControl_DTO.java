@@ -1,4 +1,4 @@
-package me.doapps.beans;
+package me.doapps.videos.de.navidad.beans;
 
 /**
  * Created by Gantz on 3/12/14.

@@ -1,4 +1,4 @@
-package me.doapps.adapters;
+package me.doapps.videos.de.navidad.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,9 +11,9 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import me.doapps.beans.Channel_DTO;
-import me.doapps.utils.Util_Fonts;
-import me.doapps.youapp.R;
+import me.doapps.videos.de.navidad.beans.Channel_DTO;
+import me.doapps.videos.de.navidad.utils.Util_Fonts;
+import me.doapps.videos.de.navidad.R;
 
 /**
  * Created by Gantz on 26/05/14.

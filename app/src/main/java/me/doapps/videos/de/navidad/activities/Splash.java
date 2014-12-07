@@ -1,9 +1,11 @@
-package me.doapps.youapp;
+package me.doapps.videos.de.navidad.activities;
  
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
+
+import me.doapps.videos.de.navidad.R;
 
 public class Splash extends ActionBarActivity {
  
@@ -14,6 +16,8 @@ public class Splash extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.splash);
+
+        getSupportActionBar().hide();
  
         new Handler().postDelayed(new Runnable() {
  

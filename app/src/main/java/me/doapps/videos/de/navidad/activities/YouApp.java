@@ -1,12 +1,9 @@
-package me.doapps.youapp;
+package me.doapps.videos.de.navidad.activities;
 
 import android.content.Intent;
-import android.net.Uri;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.support.v4.widget.DrawerLayout;
 import android.view.View;
 
@@ -15,12 +12,13 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.shamanland.fab.FloatingActionButton;
 
-import me.doapps.beans.API_DTO;
-import me.doapps.beans.Channel_DTO;
-import me.doapps.datasource.Channel_Datasource;
-import me.doapps.datasource.Video_DataSource;
-import me.doapps.fragments.Fragment_Menu;
-import me.doapps.fragments.Fragment_Video;
+import me.doapps.videos.de.navidad.beans.API_DTO;
+import me.doapps.videos.de.navidad.beans.Channel_DTO;
+import me.doapps.videos.de.navidad.datasource.Channel_Datasource;
+import me.doapps.videos.de.navidad.datasource.Video_DataSource;
+import me.doapps.videos.de.navidad.fragments.Fragment_Menu;
+import me.doapps.videos.de.navidad.fragments.Fragment_Video;
+import me.doapps.videos.de.navidad.R;
 
 
 public class YouApp extends ActionBarActivity {

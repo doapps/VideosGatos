@@ -1,4 +1,4 @@
-package me.doapps.adapters;
+package me.doapps.videos.de.navidad.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -23,9 +23,9 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import me.doapps.beans.Item_DTO;
-import me.doapps.utils.Util_Fonts;
-import me.doapps.youapp.R;
+import me.doapps.videos.de.navidad.beans.Item_DTO;
+import me.doapps.videos.de.navidad.utils.Util_Fonts;
+import me.doapps.videos.de.navidad.R;
 
 /**
  * Created by Gantz on 26/05/14.
@@ -88,7 +88,7 @@ public class Adapter_Video extends BaseAdapter {
             @Override
             public void onClick(View v) {
                 PopupMenu popup = new PopupMenu(context,v);
-                popup.getMenuInflater().inflate(R.menu.video,popup.getMenu());
+                popup.getMenuInflater().inflate(R.menu.youapp,popup.getMenu());
                 popup.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener() {
                     public boolean onMenuItemClick(MenuItem item) {
                         if(item.getItemId() == R.id.compartir){
