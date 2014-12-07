@@ -1,4 +1,4 @@
-package me.doapps.videos.de.navidad.activities;
+package me.doapps.videos.de.gatos.activities;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;

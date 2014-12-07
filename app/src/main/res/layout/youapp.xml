@@ -32,7 +32,7 @@
             android:layout_width="@dimen/navigation_drawer_width"
             android:layout_height="match_parent"
             android:layout_gravity="start"
-            android:name="me.doapps.videos.de.navidad.fragments.Fragment_Menu"
+            android:name="me.doapps.videos.de.gatos.fragments.Fragment_Menu"
             tools:layout="@layout/fragment_menu" />
 
     </android.support.v4.widget.DrawerLayout>

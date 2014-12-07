@@ -1,4 +1,4 @@
-package me.doapps.videos.de.navidad.activities;
+package me.doapps.videos.de.gatos.activities;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
@@ -12,13 +12,13 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.shamanland.fab.FloatingActionButton;
 
-import me.doapps.videos.de.navidad.beans.API_DTO;
-import me.doapps.videos.de.navidad.beans.Channel_DTO;
-import me.doapps.videos.de.navidad.datasource.Channel_Datasource;
-import me.doapps.videos.de.navidad.datasource.Video_DataSource;
-import me.doapps.videos.de.navidad.fragments.Fragment_Menu;
-import me.doapps.videos.de.navidad.fragments.Fragment_Video;
-import me.doapps.videos.de.navidad.R;
+import me.doapps.videos.de.gatos.beans.API_DTO;
+import me.doapps.videos.de.gatos.beans.Channel_DTO;
+import me.doapps.videos.de.gatos.datasource.Channel_Datasource;
+import me.doapps.videos.de.gatos.datasource.Video_DataSource;
+import me.doapps.videos.de.gatos.fragments.Fragment_Menu;
+import me.doapps.videos.de.gatos.fragments.Fragment_Video;
+import me.doapps.videos.de.gatos.R;
 
 
 public class YouApp extends ActionBarActivity {

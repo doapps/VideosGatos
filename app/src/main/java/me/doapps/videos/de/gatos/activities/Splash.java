@@ -1,11 +1,11 @@
-package me.doapps.videos.de.navidad.activities;
+package me.doapps.videos.de.gatos.activities;
  
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
 
-import me.doapps.videos.de.navidad.R;
+import me.doapps.videos.de.gatos.R;
 
 public class Splash extends ActionBarActivity {
  

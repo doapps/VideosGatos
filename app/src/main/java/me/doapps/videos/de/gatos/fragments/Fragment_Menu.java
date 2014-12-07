@@ -1,4 +1,4 @@
-package me.doapps.videos.de.navidad.fragments;
+package me.doapps.videos.de.gatos.fragments;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
@@ -17,10 +17,10 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import me.doapps.videos.de.navidad.beans.Channel_DTO;
-import me.doapps.videos.de.navidad.datasource.Channel_Datasource;
-import me.doapps.videos.de.navidad.R;
-import me.doapps.videos.de.navidad.activities.YouApp;
+import me.doapps.videos.de.gatos.beans.Channel_DTO;
+import me.doapps.videos.de.gatos.datasource.Channel_Datasource;
+import me.doapps.videos.de.gatos.R;
+import me.doapps.videos.de.gatos.activities.YouApp;
 
 public class Fragment_Menu extends Fragment {
 

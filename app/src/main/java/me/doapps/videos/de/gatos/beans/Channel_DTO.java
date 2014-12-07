@@ -1,4 +1,4 @@
-package me.doapps.videos.de.navidad.beans;
+package me.doapps.videos.de.gatos.beans;
 
 /**
  * Created by Gantz on 3/12/14.

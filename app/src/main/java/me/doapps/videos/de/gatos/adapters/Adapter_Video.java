@@ -1,4 +1,4 @@
-package me.doapps.videos.de.navidad.adapters;
+package me.doapps.videos.de.gatos.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -23,9 +23,9 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import me.doapps.videos.de.navidad.beans.Item_DTO;
-import me.doapps.videos.de.navidad.utils.Util_Fonts;
-import me.doapps.videos.de.navidad.R;
+import me.doapps.videos.de.gatos.beans.Item_DTO;
+import me.doapps.videos.de.gatos.utils.Util_Fonts;
+import me.doapps.videos.de.gatos.R;
 
 /**
  * Created by Gantz on 26/05/14.

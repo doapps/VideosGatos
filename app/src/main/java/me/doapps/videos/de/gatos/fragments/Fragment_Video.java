@@ -1,4 +1,4 @@
-package me.doapps.videos.de.navidad.fragments;
+package me.doapps.videos.de.gatos.fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,12 +14,12 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import me.doapps.videos.de.navidad.adapters.Adapter_Video;
-import me.doapps.videos.de.navidad.beans.Item_DTO;
-import me.doapps.videos.de.navidad.datasource.Video_DataSource;
-import me.doapps.videos.de.navidad.activities.Player;
-import me.doapps.videos.de.navidad.R;
-import me.doapps.videos.de.navidad.activities.YouApp;
+import me.doapps.videos.de.gatos.adapters.Adapter_Video;
+import me.doapps.videos.de.gatos.beans.Item_DTO;
+import me.doapps.videos.de.gatos.datasource.Video_DataSource;
+import me.doapps.videos.de.gatos.activities.Player;
+import me.doapps.videos.de.gatos.R;
+import me.doapps.videos.de.gatos.activities.YouApp;
 
 /**
  * Created by Gantz on 3/12/14.

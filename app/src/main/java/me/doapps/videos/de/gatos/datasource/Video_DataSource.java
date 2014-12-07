@@ -1,4 +1,4 @@
-package me.doapps.videos.de.navidad.datasource;
+package me.doapps.videos.de.gatos.datasource;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
@@ -17,9 +17,9 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import me.doapps.videos.de.navidad.adapters.Adapter_Video;
-import me.doapps.videos.de.navidad.beans.API_DTO;
-import me.doapps.videos.de.navidad.beans.Item_DTO;
+import me.doapps.videos.de.gatos.adapters.Adapter_Video;
+import me.doapps.videos.de.gatos.beans.API_DTO;
+import me.doapps.videos.de.gatos.beans.Item_DTO;
 
 /**
  * Created by Gantz on 3/12/14.

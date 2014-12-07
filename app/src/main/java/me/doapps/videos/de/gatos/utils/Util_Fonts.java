@@ -1,4 +1,4 @@
-package me.doapps.videos.de.navidad.utils;
+package me.doapps.videos.de.gatos.utils;
 
 import android.content.Context;
 import android.graphics.Typeface;
