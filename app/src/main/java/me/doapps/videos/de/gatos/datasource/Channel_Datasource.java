@@ -19,18 +19,20 @@ public class Channel_Datasource {
 
     private ArrayList<Channel_DTO> getChannels(){
 
-        Channel_DTO doappsme = new Channel_DTO("doappsme","#FFFFFF",android.R.color.white,android.R.drawable.ic_menu_directions,"","DoApps");
-        Channel_DTO trucoteca = new Channel_DTO("trucotecaanalisis","#FFFFFF",android.R.color.white,android.R.drawable.ic_menu_directions,"","Trucoteca");
-        Channel_DTO worldofwarcraft = new Channel_DTO("WorldofWarcraft","#FFFFFF",android.R.color.white,android.R.drawable.ic_menu_directions,"","World of Warcraft");
-        Channel_DTO heartstone = new Channel_DTO("PlayHearthstone","#FFFFFF",android.R.color.white,android.R.drawable.ic_menu_directions,"","Hearthstone");
-        Channel_DTO starcraft = new Channel_DTO("starcraft","#FFFFFF",android.R.color.white,android.R.drawable.ic_menu_directions,"","Star Craft");
+        Channel_DTO Animaleschistosos1 = new Channel_DTO("Animaleschistosos1","#FFFFFF ",android.R.color.white,android.R.drawable.ic_menu_directions,"","Gatos Graciosos");
+        Channel_DTO perrosgatoschistosos = new Channel_DTO("perrosgatoschistosos","#FFFFFF ",android.R.color.white,android.R.drawable.ic_menu_directions,"","Gatos Chistosos");
+        Channel_DTO wendew = new Channel_DTO("wendew","#FFFFFF ",android.R.color.white,android.R.drawable.ic_menu_directions,"","Gatos Ninja");
+        Channel_DTO UC1w0SU90SoZu1Tow7g4xkGw = new Channel_DTO("UC1w0SU90SoZu1Tow7g4xkGw","#FFFFFF ",android.R.color.white,android.R.drawable.ic_menu_directions,"","Gatos Bailando");
+        Channel_DTO UCCOywen6zdgYOQ1tYoMUcXA = new Channel_DTO("UCCOywen6zdgYOQ1tYoMUcXA","#FFFFFF ",android.R.color.white,android.R.drawable.ic_menu_directions,"","Gatos y Gatitos");
+        Channel_DTO UCjEtUGmdYNAHuRQ0of9MpNQ = new Channel_DTO("UCjEtUGmdYNAHuRQ0of9MpNQ","#FFFFFF ",android.R.color.white,android.R.drawable.ic_menu_directions,"","Gatos Hablando");
 
         ArrayList<Channel_DTO> channel_dtos = new ArrayList<Channel_DTO>();
-        channel_dtos.add(doappsme);
-        channel_dtos.add(trucoteca);
-        channel_dtos.add(worldofwarcraft);
-        channel_dtos.add(heartstone);
-        channel_dtos.add(starcraft);
+        channel_dtos.add(Animaleschistosos1);
+        channel_dtos.add(perrosgatoschistosos);
+        channel_dtos.add(wendew);
+        channel_dtos.add(UC1w0SU90SoZu1Tow7g4xkGw);
+        channel_dtos.add(UCCOywen6zdgYOQ1tYoMUcXA);
+        channel_dtos.add(UCjEtUGmdYNAHuRQ0of9MpNQ);
 
         return channel_dtos;
     }

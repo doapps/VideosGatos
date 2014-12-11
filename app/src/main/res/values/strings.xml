@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">YouApp</string>
+    <string name="app_name">Videos de Gatos</string>
     <string name="title_section1">Section 1</string>
     <string name="title_section2">Section 2</string>
     <string name="title_section3">Section 3</string>
@@ -12,6 +12,6 @@
 
 
     <!-- Admob Keys -->
-    <string name="admob_banner">ca-app-pub-8995045147204986/5276404156</string>
-    <string name="admob_interstitial">ca-app-pub-8995045147204986/6753137354</string>
+    <string name="admob_banner">ca-app-pub-3327434500093559/8307655828</string>
+    <string name="admob_interstitial">ca-app-pub-3327434500093559/9784389024</string>
 </resources>
